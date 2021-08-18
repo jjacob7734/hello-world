@@ -1,10 +1,10 @@
 {
     "inputs": [
-	"hello-world-job1-stage-in.ipynb",
-	"hello-world-job1-stage-out.ipynb",
+        "hello-world-job1-stage-in.ipynb",
+        "hello-world-job1-stage-out.ipynb",
         "hello-world-job1-params.txt"
     ],
     "outputs": [
-	"hello-world-job1-output.txt"
+        "hello-world-job1-output.txt"
     ]
 }
