@@ -1,10 +1,10 @@
 {
     "inputs": [
-	"input_nb": "hello-world-job1-stage-in.ipynb",
-	"output_nb": "hello-world-job1-stage-out.ipynb",
-        "parameters": "hello-world-job1-params.txt"
+	"hello-world-job1-stage-in.ipynb",
+	"hello-world-job1-stage-out.ipynb",
+        "hello-world-job1-params.txt"
     ],
     "outputs": [
-	"example_out": "hello-world-job1-output.txt"
+	"hello-world-job1-output.txt"
     ]
 }
