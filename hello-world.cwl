@@ -7,7 +7,7 @@ hints:
     dockerPull: marjoluc/hello-world:stable
 inputs:
   input_nb:
-    type: File
+    type: string
     inputBinding:
       position: 1
   output_nb:
@@ -15,7 +15,7 @@ inputs:
     inputBinding:
       position: 2
   parameters:
-    type: File
+    type: string
     inputBinding:
       position: 3
       prefix: -f  
